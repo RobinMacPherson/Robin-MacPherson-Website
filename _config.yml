@@ -1,0 +1,3 @@
+name: Robin MacPherson
+markdown: kramdown
+exclude: ["node_modules", "gulpfile.js", "package.json"]
